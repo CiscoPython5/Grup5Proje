@@ -34,7 +34,7 @@ def veri_cekme(value_1):
 
 a = ""
 while True:
-    sleep(0.2)
+    sleep(0.3)
     c = pyperclip.paste()
     if " " in c and len(c) > 16:
         continue
