@@ -1,6 +1,6 @@
 İngilizce - Türkçe Kelime Çeviri uygulamasıdır. 
 
-![alt text](https://i.ibb.co/d4RKJkh/p1.jpg)
+![alt text](https://i.ibb.co/tHJ33DC/x.jpg)
 
 Yabancı kaynaklı makale okurken anlamadığımız kelimeleri seçip kopyaladığımızda program arayüzünden veya pop up mesajı ile kopyalanmış kelimenin Türkçe karşılığını vermektedir.
 
